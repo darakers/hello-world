@@ -1,1 +1,4 @@
 Secondly added file.
+
+We're adding some code in master, not in 1.0. This 
+will be added in 1.2.
