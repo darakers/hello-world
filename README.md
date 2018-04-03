@@ -8,3 +8,5 @@ This is being added to this current branch from Visual Studio?
 Lastly, I'm going to add this stuff.
 
 Added to the end of the file.
+
+Added as part of the branch "Next Change"
