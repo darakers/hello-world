@@ -12,3 +12,5 @@ Added to the end of the file.
 Added as part of the branch "Next Change"
 
 What if I made a change in masteR?
+
+Testing out the command line interface
